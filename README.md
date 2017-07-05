@@ -8,7 +8,7 @@ This is a free plugin for you to use vector images such as Material Design Icon 
 ## How to use
  - Clone this repository,
  - Open your project in Unity, import UGUI Material Design Icon.unitypackage,
- - Go to GameObjects -> UI -> Vector Image to create a new Icon UI element,
+ - Go to GameObjects -> UI -> Vector Icon to create a new Icon UI element,
  - Proceed to next section.
 
 ### Pick icons and color with picker
