@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f52aec247768c4d55aedb3b9b2c05883
+timeCreated: 1498912574
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Material Icons
+  fontNames:
+  - Material Icons
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
